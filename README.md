@@ -63,3 +63,5 @@ You also need to pass a `config` object to the component with the following prop
 - App: For example, "Twitter for iPhone"
 - Retweets: Number of retweets
 - Likes: Number of likes
+
+Support my OSS work by <a href="https://twitter.com/transitive_bs">following me on twitter <img src="https://storage.googleapis.com/saasify-assets/twitter-logo.svg" alt="twitter" height="24px" align="center"></a>
